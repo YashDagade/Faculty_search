@@ -1,0 +1,36 @@
+Okay so it's 12:30 rn and I don't think this should take me too long at all
+
+Here's what I want. First a list of all the faculty from harvard/mit cs - let's do MIT since I know they are easy to scrape
+
+easy enough
+
+after that for each mit faculty - we will google/duck duck go their socail intrests. I think I want to play with googling instead of duck duck going since that may scale better -- let's deal with that once we have to 
+
+Once we have that we can basically look up each faculty and create a Faculy Object that has the following attributes, faculty resrach intrest essay, faculty resrach intresst terms, faculty social intrest essay, faculty socail intrest terms
+
+-- Edit at 12:42 - the MIT page already has some resrach intrests terms - this could be intresting indeed. I should look into this more. I should also think about the best data type, perhaps a csv would be a good data type instead of an object. 
+
+okay now that we have this we can use the resrach intrests and social intrests or just the social intrests with an if than block for resresach intrests to try and find an optimal match. 
+
+I probably want the social intrests and resrach intrests to be failry comprehensive - perhaps there is a better data type than. I am not fully sure - worth investigating later lol
+
+Okay anywho step 1 is to find a list of all the facutly at MIT CS. Let's see if a csv already exists. If not I can scrpe it too! Perplexity should be able to scrape somethign ideally though. Let's do MIT CSAIL
+
+
+Ahh this is actually fairly easy - since all the faculty fit on a simple page - I can litreally do this myself - let's do this for all the principal investigators as they are more likey to have stuff about them on the internet
+
+
+
+okay @ 12:55 and we have a csv file! 
+
+Let's goo 
+
+ahh actually the length of the pd should not be 108 - it should be 130 something. It seems someting is wrong
+
+Ahh found it - it's actually teh fact that not all facutly have a Core/Dual assignment so that's probably why
+
+ahh this is an easy enough fix 
+
+The time is now @ 106 AM 
+
+Okay so now we have a person! Now we want to find their social intrsts

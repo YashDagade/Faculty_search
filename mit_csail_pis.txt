@@ -1,0 +1,1346 @@
+PI
+Core/Dual
+Hal Abelson
+Professor
+Hal Abelson
+e
+hal@mit.edu
+p
+253-5856
+r
+32-G516
+Programming, privacy, App Inventor
+PI
+Core/Dual
+Ted Adelson
+Professor
+Ted Adelson
+e
+adelson@csail.mit.edu
+p
+253-0645
+r
+32-310
+Vision, touch sensing, robotics
+PI
+Anant Agarwal
+Professor
+Anant Agarwal
+e
+agarwal@edx.org
+p
+253-1448
+Systems, architecture, online learning, edX
+PI
+Core/Dual
+Pulkit Agrawal
+Associate Professor
+Pulkit Agrawal
+e
+PULKITAG@MIT.EDU
+PI
+Core/Dual
+Mohammad Alizadeh
+Associate Professor
+Mohammad Alizadeh
+e
+alizadeh@csail.mit.edu
+r
+32-G920
+PI
+Core/Dual
+Saman Amarasinghe
+Professor
+Saman Amarasinghe
+e
+saman@csail.mit.edu
+p
+253-8879
+r
+32-G744
+Compilers, architectures, software engineering
+PI
+Core/Dual
+Siddharth Ancha
+Research Scientist
+Siddharth Ancha
+e
+sancha@mit.edu
+Postdoctoral Researcher in Robotics, Machine Learning and AI.
+PI
+Core/Dual
+Jacob Andreas
+Associate Professor
+Jacob Andreas
+e
+jda@csail.mit.edu
+PI
+Core/Dual
+Hari Balakrishnan
+Professor
+Hari Balakrishnan
+e
+hari@csail.mit.edu
+p
+253-8713
+r
+32-G942
+Networks, wireless, mobile systems, data management
+PI
+Core/Dual
+Regina Barzilay
+Professor
+Regina Barzilay
+e
+regina@csail.mit.edu
+p
+258-5706
+r
+32-G468
+Natural language processing, machine learning
+PI
+Core/Dual
+Sara Beery
+Assistant Professor
+Sara Beery
+e
+beery@csail.mit.edu
+PI
+Core/Dual
+Adam Belay
+Associate Professor
+Adam Belay
+e
+abelay@CSAIL.MIT.EDU
+p
+253-0004
+Operating systems, networking, systems security, and performance
+PI
+Core/Dual
+Bonnie Berger
+Professor
+Bonnie Berger
+e
+bab@csail.mit.edu
+p
+253-1827
+r
+32-G574
+Computational biology, genomics
+PI
+Tim Berners-Lee
+Professor Emeritus
+Tim Berners-Lee
+e
+timbl@w3.org
+p
+253-5702
+r
+32-G524
+Systems, privacy, inventor of the World Wide Web
+PI
+Core/Dual
+Andreea Bobu
+Assistant Professor
+Andreea Bobu
+e
+abobu@mit.edu
+PI
+Tamara Broderick
+Associate Professor
+Tamara Broderick
+e
+tbroderick@csail.mit.edu
+p
+324-6749
+Machine learning, statistics, Bayesian methods, inference
+PI
+Rodney Brooks
+Professor Emeritus
+Rodney Brooks
+e
+brooks@csail.mit.edu
+Computer vision, artificial intelligence, robotics
+PI
+Core/Dual
+Michael Cafarella
+Principal Research Scientist
+Michael  Cafarella 
+e
+michjc@csail.mit.edu
+Databases, data+AI, applying data management methods to economics
+PI
+Core/Dual
+Michael Carbin
+Associate Professor
+Michael Carbin
+e
+mcarbin@csail.mit.edu
+p
+253-5881
+Programming languages and systems.
+PI
+Core/Dual
+Adam Chlipala
+Professor
+Adam Chlipala
+e
+adamc@csail.mit.edu
+p
+324-8439
+Programming languages, formal methods, security & privacy, systems
+PI
+Core/Dual
+David Clark
+Senior Research Scientist
+David Clark
+e
+ddc@csail.mit.edu
+p
+253-6003
+r
+32-G536
+Internet architectures, communications policy, security
+PI
+Core/Dual
+Henry Corrigan-Gibbs
+Assistant Professor
+Henry Corrigan-Gibbs
+e
+henrycg@csail.mit.edu
+p
+253-0301
+PI
+Core/Dual
+Costis Daskalakis
+Professor
+Costis Daskalakis
+e
+costis@csail.mit.edu
+p
+253-9643
+r
+32-G694
+Algorithms, Economics, Game Theory, Statistics, Machine Learning
+PI
+Core/Dual
+Randall Davis
+Professor
+Randall Davis
+e
+davis@csail.mit.edu
+p
+253-5879
+r
+32-237
+Human-computer interaction, systems, classic AI
+PI
+Core/Dual
+Christina Delimitrou
+Associate Professor
+Christina  Delimitrou
+e
+delimitrou@csail.mit.edu
+r
+32-G738
+PI
+Core/Dual
+Erik Demaine
+Professor
+Erik Demaine
+e
+edemaine@mit.edu
+p
+253-6871
+r
+32-G680
+Algorithms, theory, computational geometry, complexity
+PI
+Jack Dennis
+Professor Emeritus
+Jack Dennis
+e
+dennis@csail.mit.edu
+p
+253-6856
+r
+32-G868
+Theory, systems, architecture, functional programming
+PI
+Core/Dual
+Srini Devadas
+Professor
+Srini Devadas
+e
+devadas@csail.mit.edu
+p
+253-0454
+r
+32-G844
+Architectures, security, computer-aided design
+PI
+Core/Dual
+Fredo Durand
+Professor
+Fredo Durand
+e
+fredo@csail.mit.edu
+p
+253-7223
+r
+32-D424
+Vision, graphics, computational photography
+PI
+Core/Dual
+Alan Edelman
+Professor
+Alan Edelman
+e
+mit.edelman@gmail.com
+p
+253-1355
+r
+32-G780
+Julia, high performance, linear algebra, random matrix theory
+PI
+Core/Dual
+Joel Emer
+Professor of the Practice
+Joel Emer
+e
+emer@csail.mit.edu
+p
+258-9190
+r
+32-G864
+Architecture, performance modeling
+PI
+Core/Dual
+William Freeman
+Professor
+William Freeman
+e
+billf@csail.mit.edu
+p
+253-8828
+Vision, machine learning, Bayesian modeling
+PI
+Core/Dual
+Mohsen Ghaffari
+Associate Professor
+Mohsen Ghaffari
+e
+ghaffari@mit.edu
+r
+32-G618
+PI
+Marzyeh Ghassemi
+Associate Professor
+Marzyeh Ghassemi
+e
+mghassem@MIT.EDU
+Marzyeh Ghassemi, PhD
+PI
+Core/Dual
+Manya Ghobadi
+Associate Professor
+Manya Ghobadi
+e
+ghobadi@mit.edu
+Networks, Systems, Hardware
+PI
+Core/Dual
+Dave Gifford
+Professor
+Dave Gifford
+e
+gifford@csail.mit.edu
+p
+253-6039
+r
+32-G542
+Computational biology, genomics, machine learning
+PI
+Core/Dual
+Jim Glass
+Senior Research Scientist
+Jim Glass
+e
+glass@mit.edu
+p
+253-1640
+r
+32-G444
+speech and language processing
+PI
+Michel Goemans
+Professor
+Michel Goemans
+e
+goemans@csail.mit.edu
+p
+253-2688
+Discrete algorithms, combinatorial optimization
+PI
+Core/Dual
+Shafi Goldwasser
+Professor
+Shafi Goldwasser
+e
+shafi@csail.mit.edu
+p
+253-5914
+r
+32-G682
+Theory, cryptography, cybersecurity, complexity
+PI
+Core/Dual
+Polina Golland
+Professor
+Polina Golland
+e
+polina@csail.mit.edu
+p
+253-8005
+r
+32-D470
+Vision, medical imaging, statistical inference
+PI
+Eric Grimson
+Chancellor for Academic Advancement
+Eric Grimson
+e
+egrimson@mit.edu
+p
+253-5415
+PI
+Core/Dual
+John Guttag
+Professor
+John Guttag
+e
+guttag@csail.mit.edu
+p
+253-6022
+r
+32-G966
+Machine learning, medicine, data-driven inference
+PI
+Core/Dual
+Dylan Hadfield-Menell
+Assistant Professor
+Dylan Hadfield-Menell
+e
+dhm@csail.mit.edu
+p
+258-0672
+PI
+Core/Dual
+D. Fox Harrell
+Professor
+D. Fox Harrell
+e
+fox@csail.mit.edu
+p
+324-4278
+AI, systems for social change and creative expression
+PI
+Core/Dual
+Kaiming He
+Associate Professor
+Kaiming He
+e
+kaiming@mit.edu
+PI
+Core/Dual
+Sam Hopkins
+Assistant Professor
+Sam  Hopkins
+e
+samhop@mit.edu
+r
+32-G666
+PI
+Core/Dual
+Berthold Horn
+Professor
+Berthold Horn
+e
+bkph@csail.mit.edu
+p
+253-5863
+r
+32-D434
+Vision, computational imaging
+PI
+Core/Dual
+Anna Huang
+Assistant Professor
+Anna Huang
+e
+huangcza@mit.edu
+r
+32-D430
+PI
+Core/Dual
+Dan Huttenlocher
+Professor
+Dan Huttenlocher
+e
+huttenlocher@MIT.EDU
+PI
+Core/Dual
+Piotr Indyk
+Professor
+Piotr Indyk
+e
+indyk@mit.edu
+p
+452-3402
+r
+32-G642
+Algorithms, theory, computational geometry
+PI
+Core/Dual
+Phillip John Isola
+Associate Professor
+Phillip John Isola
+e
+phillipi@MIT.EDU
+PI
+Core/Dual
+Tommi Jaakkola
+Professor
+Tommi Jaakkola
+e
+tommi@csail.mit.edu
+p
+253-0440
+r
+32-G470
+Machine learning, natural language processing, genomics
+PI
+Core/Dual
+Daniel Jackson
+Professor
+Daniel Jackson
+e
+dnj@csail.mit.edu
+p
+258-8471
+r
+32-G704
+Software design, programming, systems
+PI
+Core/Dual
+Stefanie Jegelka
+Associate Professor
+Stefanie Jegelka
+e
+stefje@mit.edu
+r
+32-G472
+Machine learning
+PI
+Core/Dual
+Frans Kaashoek
+Professor
+Frans Kaashoek
+e
+kaashoek@csail.mit.edu
+p
+253-7149
+r
+32-G992
+Systems, networks, architectures
+PI
+Core/Dual
+Leslie Kaelbling
+Professor
+Leslie Kaelbling
+e
+lpk@csail.mit.edu
+p
+258-9695
+Robotics, machine learning, planning, uncertainty
+PI
+Core/Dual
+Lalana Kagal
+Principal Research Scientist
+Lalana Kagal
+e
+lkagal@csail.mit.edu
+p
+253-5845
+r
+32-G518
+Privacy, web decentralization, distributed data
+PI
+Core/Dual
+Yael Kalai
+Professor
+Yael Kalai
+e
+tauman@MIT.EDU
+r
+32-G682
+PI
+Core/Dual
+David Karger
+Professor
+David Karger
+e
+karger@csail.mit.edu
+p
+258-6167
+r
+32-G592
+Helping people manage information
+PI
+Core/Dual
+Dina Katabi
+Professor
+Dina Katabi
+e
+dina@csail.mit.edu
+p
+324-6027
+r
+32-G936
+Wireless, networks, machine learning
+PI
+Core/Dual
+Boris Katz
+Principal Research Scientist
+Boris Katz
+e
+boris@csail.mit.edu
+p
+253-6032
+r
+32-G430
+Natural language processing
+PI
+Core/Dual
+Manolis Kellis
+Professor
+Manolis Kellis
+e
+manoli@mit.edu
+p
+253-2419
+r
+32-D524
+Computational biology, computational genomics
+PI
+Core/Dual
+Jonathan Kelner
+Professor
+Jonathan Kelner
+e
+kelner@mit.edu
+p
+253-4344
+r
+32-G564
+Mathematics, algorithms, complexity theory
+PI
+Core/Dual
+Yoon Kim
+Assistant Professor
+Yoon Kim
+e
+yoonkim@mit.edu
+Natural language processing, machine learning
+PI
+Core/Dual
+Mina Konakovic Lukovic
+Assistant Professor
+Mina  Konakovic Lukovic
+e
+minakl@mit.edu
+r
+32-D458
+Graphics, fabrication, geometry, ML, robotics
+PI
+Core/Dual
+Tim Kraska
+Associate Professor
+Tim Kraska
+e
+kraska@mit.edu
+r
+32-G914
+Systems for ML, ML for Systems, Interactive Data Exploration
+PI
+Butler Lampson
+Adjunct Professor
+Butler Lampson
+e
+blampson@mit.edu
+p
+253-6004
+r
+32-G924
+PI
+Tom Leighton
+Professor
+Tom Leighton
+e
+ftl@csail.mit.edu
+p
+253-5876
+r
+32-G594
+Networks, distributed/parallel computing, architectures
+PI
+Core/Dual
+Charles E. Leiserson
+Professor
+Charles E. Leiserson
+e
+cel@csail.mit.edu
+p
+253-5833
+r
+32-G768
+Algorithms, parallel computing, performance engineering
+PI
+Core/Dual
+John Leonard
+Professor
+John Leonard
+e
+jleonard@csail.mit.edu
+p
+253-5305
+r
+32-232
+Robotics, navigation/mapping, self-driving cars
+PI
+Core/Dual
+Barbara Liskov
+Institute Professor
+Barbara Liskov
+e
+liskov@csail.mit.edu
+p
+253-5886
+Programming methodology, languages and systems
+PI
+Core/Dual
+Andrew Lo
+Professor
+Andrew Lo
+e
+alo-admin@mit.edu
+p
+253-0920
+Charles E. and Susan T. Harris Professor, CSAIL Principal Investigator
+PI
+Core/Dual
+Tomas Lozano-Perez
+Professor
+Tomas Lozano-Perez
+e
+tlp@csail.mit.edu
+p
+253-7889
+Robotics, artificial intelligence
+PI
+Core/Dual
+Nancy Lynch
+Professor
+Nancy Lynch
+e
+lynch@csail.mit.edu
+p
+253-7225
+r
+32-G668
+Theory, algorithms, distributed systems, real-time computing
+PI
+Core/Dual
+Sam Madden
+Professor
+Sam Madden
+e
+madden@csail.mit.edu
+p
+258-6643
+r
+32-G938
+Systems for processing and manipulating data
+PI
+Core/Dual
+Aleksander Madry
+Professor
+Aleksander Madry
+e
+madry@mit.edu
+p
+324-6739
+r
+32-G806
+Theory, algorithms, optimization, robust and reliable ML
+PI
+Core/Dual
+Thomas Magnanti
+Institute Professor
+Thomas Magnanti
+e
+magnanti@mit.edu
+p
+253-6604
+PI
+Core/Dual
+Wojciech Matusik
+Professor
+Wojciech Matusik
+e
+wojciech@csail.mit.edu
+p
+324-8432
+Graphics, vision, fabrication, robotics, hci
+PI
+Albert R. Meyer
+Professor Emeritus
+Albert R. Meyer
+e
+meyer@csail.mit.edu
+Programming languages, theory, complexity, online education
+PI
+Core/Dual
+Silvio Micali
+Professor
+Silvio Micali
+e
+silvio@csail.mit.edu
+p
+253-5949
+r
+32-G644
+Cryptography, cybersecurity, zero-knowledge proofs
+PI
+Core/Dual
+Rob Miller
+Professor
+Rob Miller
+e
+rcm@csail.mit.edu
+p
+324-6028
+Human-computer interaction, online education, software development
+PI
+Core/Dual
+Ankur Moitra
+Norbert Wiener Professor
+Ankur Moitra
+e
+moitra@mit.edu
+p
+253-5876
+r
+32-G594
+PI
+Core/Dual
+Robert Morris
+Professor
+Robert Morris
+e
+rtm@csail.mit.edu
+p
+253-5983
+r
+32-G972
+Parallel and distributed operating systems, software, storage
+PI
+Core/Dual
+Stefanie Mueller
+Associate Professor
+Stefanie Mueller
+e
+stefanie.mueller@mit.edu
+p
+715-5831
+r
+32-211
+Human-computer interaction, fabrication, hardware, robotics.
+PI
+Core/Dual
+Anand Natarajan
+Assistant Professor
+Anand Natarajan
+e
+anandn@mit.edu
+r
+32-G624
+PI
+Core/Dual
+Una-May O'Reilly
+Principal Research Scientist
+Una-May O'Reilly
+e
+unamay@csail.mit.edu
+p
+253-6437
+r
+32-D534
+Applied AI and ML, Cyber and Information Security
+PI
+Core/Dual
+Aude Oliva
+Senior Research Scientist
+Aude Oliva
+e
+oliva@mit.edu
+p
+452-2492
+Vision, perception/cognition, cognitive neuroscience
+PI
+Tomaso Poggio
+Professor
+Tomaso Poggio
+e
+tp@csail.mit.edu
+p
+253-5230
+AI, neuroscience, vision, machine learning
+PI
+Core/Dual
+Jonathan Ragan-Kelley
+Associate Professor
+Jonathan Ragan-Kelley
+e
+jrk@csail.mit.edu
+p
+253-7165
+Programming languages and systems for graphics and visual computing
+PI
+Core/Dual
+Martin Rinard
+Professor
+Martin Rinard
+e
+rinard@csail.mit.edu
+p
+258-6922
+r
+32-G828
+Systems, programming languages and verification
+PI
+Core/Dual
+Ronald L. Rivest
+Institute Professor
+Ronald L. Rivest
+e
+rivest@mit.edu
+p
+253-5880
+r
+32-G692
+Cryptography, cybersecurity, RSA public-key encryption
+PI
+Core/Dual
+Nicholas Roy
+Professor
+Nicholas Roy
+e
+nickroy@csail.mit.edu
+p
+253-2517
+Robotics, autonomy, artificial intelligence, motion planning
+PI
+Core/Dual
+Ronitt Rubinfeld
+Professor
+Ronitt Rubinfeld
+e
+ronitt@csail.mit.edu
+p
+253-0884
+r
+32-G698
+Theory, algorithms
+PI
+Core/Dual
+Daniela Rus
+Director
+Daniela Rus
+e
+rus@csail.mit.edu
+CSAIL director, robotics, AI, data science, privacy
+PI
+Jerry Saltzer
+Professor Emeritus
+Jerry Saltzer
+e
+saltzer@mit.edu
+p
+253-6016
+Developed early time-sharing and networking systems
+PI
+Core/Dual
+Daniel Sanchez
+Professor
+Daniel Sanchez
+e
+sanchez@csail.mit.edu
+p
+715-4886
+Architectures, systems, parallel computing, multicores, memory
+PI
+Core/Dual
+Arvind Satyanarayan
+Associate Professor
+Arvind  Satyanarayan
+e
+arvindsatya@mit.edu
+r
+32-G706
+PI
+Core/Dual
+Stephanie Seneff
+Senior Research Scientist
+Stephanie Seneff
+e
+seneff@csail.mit.edu
+p
+253-0451
+The relationship between toxic chemicals and human disease.
+PI
+Devavrat Shah
+Professor
+Devavrat Shah
+e
+devavrat@mit.edu
+p
+253-4670
+Statistical inference, network algorithms, stochastics
+PI
+Core/Dual
+Julie Shah
+Professor
+Julie Shah
+e
+julie_a_shah@csail.mit.edu
+p
+324-4879
+Robotics, machine learning, artificial intelligence
+PI
+Core/Dual
+Nir Shavit
+Professor
+Nir Shavit
+e
+shanir@csail.mit.edu
+p
+324-8440
+r
+32-G622
+Algorithms, neuroscience
+PI
+Peter Shor
+Professor
+Peter Shor
+e
+shor@math.mit.edu
+p
+253-1827
+r
+32-G574
+PI
+Core/Dual
+Howard Shrobe
+Principal Research Scientist
+Howard Shrobe
+e
+hes@csail.mit.edu
+p
+253-7877
+r
+32-D532
+Architectures, cybersecurity, web policy
+PI
+Core/Dual
+Julian Shun
+Associate Professor
+Julian Shun
+e
+jshun@mit.edu
+p
+258-0669
+r
+32-G736
+Parallel computing, applied algorithms, graph processing.
+PI
+Michael Sipser
+Professor
+Michael Sipser
+e
+sipser@MIT.EDU
+p
+253-4992
+r
+32-G594
+Theory, algorithms, complexity, error correction
+PI
+Core/Dual
+Vincent Sitzmann
+Assistant Professor
+Vincent  Sitzmann
+e
+sitzmann@mit.edu
+PI
+Core/Dual
+Armando Solar-Lezama
+Professor
+Armando Solar-Lezama
+e
+asolar@csail.mit.edu
+p
+258-9727
+r
+32-G742
+Programming languages, software analysis
+PI
+Core/Dual
+Karen Sollins
+Principal Research Scientist
+Karen Sollins
+e
+sollins@csail.mit.edu
+p
+253-6006
+r
+32-G534
+Networks
+PI
+Core/Dual
+Justin Solomon
+Associate Professor
+Justin Solomon
+e
+jsolomon@mit.edu
+r
+32-D460
+Geometry, graphics, vision, machine learning, optimization.
+PI
+Core/Dual
+David Sontag
+Professor
+David Sontag
+e
+dsontag@csail.mit.edu
+r
+32-G464
+Machine learning, artificial intelligence, healthcare.
+PI
+Core/Dual
+Michael Stonebraker
+Adjunct Professor
+Michael Stonebraker
+e
+stonebraker@csail.mit.edu
+p
+253-3538
+r
+32-G922
+Databases, big data
+PI
+Collin Stultz
+Professor
+Collin Stultz
+e
+cmstultz@csail.mit.edu
+PI
+Core/Dual
+Gerald Sussman
+Professor
+Gerald Sussman
+e
+gjs@csail.mit.edu
+p
+253-5874
+Artificial intelligence, supercomputers
+PI
+Core/Dual
+Vivienne Sze
+Professor
+Vivienne Sze
+e
+sze@mit.edu
+p
+324-7352
+PI
+Core/Dual
+Peter Szolovits
+Professor
+Peter Szolovits
+e
+psz@mit.edu
+p
+253-3476
+r
+32-254
+Machine learning, natural language processing
+PI
+Core/Dual
+Russ Tedrake
+Professor
+Russ Tedrake
+e
+russt@csail.mit.edu
+p
+253-1778
+Robotics, machine learning, motion planning and control
+PI
+Joshua Tenenbaum
+Professor
+Joshua Tenenbaum
+e
+jbt@csail.mit.edu
+p
+452-2010
+Computational cognitive science, machine learning
+PI
+Chris Terman
+Senior Lecturer Emeritus
+Chris Terman
+e
+cjt@mit.edu
+p
+253-6038
+Online education
+PI
+Core/Dual
+Bruce Tidor
+Professor
+Bruce Tidor
+e
+tidor@mit.edu
+p
+253-7258
+r
+32-212
+Computational genomics, computational biology
+PI
+Core/Dual
+Antonio Torralba
+Professor
+Antonio Torralba
+e
+torralba@csail.mit.edu
+p
+324-0900
+Vision, graphics, perception, machine learning
+PI
+Core/Dual
+Vinod Vaikuntanathan
+Professor
+Vinod Vaikuntanathan
+e
+vinodv@mit.edu
+p
+324-8444
+r
+32-G696
+PI
+Steve Ward
+Professor Emeritus
+Steve Ward
+e
+ward@mit.edu
+p
+253-6036
+Architectures, compilers, systems, multiprocessors
+PI
+Core/Dual
+Daniel Weitzner
+Senior Research Scientist
+Daniel Weitzner
+e
+djweitzner@csail.mit.edu
+p
+253-8036
+Web policy, cybersecurity, web architecture
+PI
+Core/Dual
+Brian Williams
+Professor
+Brian Williams
+e
+williams@csail.mit.edu
+p
+253-2739
+r
+32-241
+Robotics, autonomy, artificial intelligence, machine learning
+PI
+Core/Dual
+Virginia Vassilevska Williams
+Professor
+Virginia Vassilevska Williams
+e
+virgi@mit.edu
+r
+32-G640
+Theory, algorithms, complexity.
+PI
+Core/Dual
+Ryan Williams
+Professor
+Ryan Williams 
+e
+rrw@mit.edu
+r
+32-G638
+Theory, algorithms, complexity.
+PI
+Alan Willsky
+Professor Emeritus
+Alan Willsky
+e
+willsky@mit.edu
+p
+253-2356
+estimation and inference, signal and image processing
+PI
+Gregory Wornell
+Professor
+Gregory Wornell
+e
+gww@mit.edu
+p
+253-3513
+Inference, learning, information theory, signal processing, imaging
+PI
+Core/Dual
+Mengjia Yan
+Associate Professor
+Mengjia Yan
+e
+mengjiay@mit.edu
+Assistant Professor, MIT EECS
+PI
+Core/Dual
+Nickolai Zeldovich
+Professor
+Nickolai Zeldovich
+e
+nickolai@csail.mit.edu
+p
+253-6005
+r
+32-G994
+Operating systems, hardware, programming languages
+PI
+Core/Dual
+Victor Zue
+Professor- Post Tenure
+Victor Zue
+e
+zue@csail.mit.edu
+p
+253-8513
+Spoken language systems, human language technologies
