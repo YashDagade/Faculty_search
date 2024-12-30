@@ -34,3 +34,22 @@ ahh this is an easy enough fix
 The time is now @ 106 AM 
 
 Okay so now we have a person! Now we want to find their social intrsts
+
+
+
+
+Outside of his rigorous academic pursuits, Alan Edelman has cultivated a rich personal life filled with engaging hobbies that reflect his diverse interests and personality. As a devoted dog owner, he finds joy and relaxation in spending time with his little corgi, whose cheerful presence often features in the class videos for his renowned computational thinking class. This delightful companionship not only adds a playful dimension to his life but also provides a wonderful outlet for outdoor activities, such as walks and playful interactions, allowing him to escape the cerebral demands of academia. Alan also seems to embrace a philosophy of enjoying life to the fullest. He is known to appreciate the lighter side of academic life, often expressing the importance of having fun while working and teaching. This vibrant approach to life suggests that he enjoys engaging in thoughtful discussions or light-hearted banter with colleagues and students, further enriching his social interactions and fostering a collaborative atmosphere within his work environment. The intertwining of his professional and personal pursuits reflects a holistic approach to life, wherein his love for mathematics and computing integrates seamlessly with his desire for joy, connection, and curiosity beyond the classroom. 
+
+
+ ['Walking my corgi', 'Engaging in playful interactions with pets', 'Having fun while working', 'Connecting with colleagues and students through discussion', 'Enjoying light-hearted banter']
+
+
+
+ resrach intrests 
+
+
+
+High performance computing, numerical computation, linear algebra, stochastic eigenanalysis (random matrix theory). 
+
+
+ ['High performance computing', 'Numerical computation', 'Linear algebra', 'Stochastic eigenanalysis (random matrix theory)']
